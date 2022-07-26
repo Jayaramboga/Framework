@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ae9b287-9109-463d-a750-653ba7f30459" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/pom/ScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/pom/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/pom/Documentation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/pom/Documentation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/pom/Downloads.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/pom/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/pom/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/pom/WebDriverElem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/selenium/features/SeleniumPobTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/selenium/features/SeleniumPobTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CQqhOiEekqCs5hjm8yI8K5x94O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Jayaram_Boga/IdeaProjects/Projectpom/src/main/java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.ScreenShot">
+    <configuration name="LetsTryToInstaltiateSingletonClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.LetsTryToInstaltiateSingletonClassExample" />
+      <module name="FrameworksProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.epam.pom.LetsTryToInstaltiateSingletonClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.pom.LetsTryToInstaltiateSingletonClassExample" />
+      <module name="FrameworksProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.pom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScreenShot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FrameworksProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.pom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.pom" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.pom.ScreenShot" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScreenShot.Demo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FrameworksProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.pom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.pom" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.pom.ScreenShot" />
+      <option name="METHOD_NAME" value="Demo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="FrameworksProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="FrameworksProject" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumPobTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FrameworksProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.selenium.features.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.selenium.features" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.selenium.features.SeleniumPobTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ScreenShot" />
+        <item itemvalue="Application.com.epam.pom.LetsTryToInstaltiateSingletonClassExample" />
+        <item itemvalue="Application.LetsTryToInstaltiateSingletonClassExample" />
+        <item itemvalue="JUnit.ScreenShot.Demo" />
+        <item itemvalue="TestNG.SeleniumPobTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ae9b287-9109-463d-a750-653ba7f30459" name="Changes" comment="" />
+      <created>1658745276328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658745276328</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
